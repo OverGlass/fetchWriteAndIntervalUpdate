@@ -1,5 +1,5 @@
 # fetchWriteAndIntervalUpdate
-Fetch, Write and Interval update in millisecond
+A function to fetch, write and Interval update in millisecond
 ```typescript
 //main.ts
 import fetchWriteAndIntervalUpdate from "https://raw.githubusercontent.com/OverGlass/fetchWriteAndIntervalUpdate/v0.0.1/fetchWriteAndIntervalUpdate.ts"
